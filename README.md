@@ -4,4 +4,4 @@
 ## Profile Link
 https://github.com/osamascience96
 
-!(main.png)
+![HackerRank Image](main.png)
