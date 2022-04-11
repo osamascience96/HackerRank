@@ -1,10 +1,10 @@
 ## Problem
 
-![Part1](problem-1.png)
-![Part2](problem-2.png)
-![Part3](problem-3.png)
-![Part4](problem-4.png)
+![Part1](Problem-1.png)
+![Part2](Problem-2.png)
+![Part3](Problem-3.png)
+![Part4](Problem-4.png)
 
-## Algorithm Researched to solve the problem in constant time
+## Algorithm Researched to solve the Problem in constant time
 ![Solution](Solution.jpg)
 
